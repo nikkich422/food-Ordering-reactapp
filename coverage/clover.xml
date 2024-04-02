@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1710830606060" clover="3.2.0">
+  <project timestamp="1710830606060" name="All files">
+    <metrics statements="26" coveredstatements="21" conditionals="4" coveredconditionals="2" methods="12" coveredmethods="7" elements="42" coveredelements="30" complexity="0" loc="26" ncloc="26" packages="2" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="Contact.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\components\Contact.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\components\Header.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="38" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="RestaurantCard.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\components\RestaurantCard.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="sum.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\components\sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="13" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <file name="appStore.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\utils\appStore.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\utils\cartSlice.js">
+        <metrics statements="5" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+      <file name="useOnline.js" path="C:\Users\nikki\OneDrive\Desktop\React Series\Food-Delivery-App\src\utils\useOnline.js">
+        <metrics statements="7" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
